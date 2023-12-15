@@ -17,6 +17,17 @@ Sou Desenvolvedor Front-End e estudante de desenvolvimento Web Full-Stack na [Tr
 </div>
 
 ### Você também me encontra em:
-<div>
-  <a href='https://www.linkedin.com/in/michelprdev/' _blank ><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
+<div display='inline'>
+  <a href='https://www.linkedin.com/in/michelprdev/'>
+    <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />
+  </a>
+  <a href='mailto:michelpr1224@gmail.com?subject=&body=' >
+    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
+  </a>
+  <a href='https://t.me/michelprj' >
+    <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' />
+  </a>
+  <a href='https://wa.me/5527999855540?text=Ol%C3%A1%21+Vim+pelo+GitHub.+Preciso+falar+com+voc%C3%AA%21+'>
+    <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' />
+  </a>
 </div>
