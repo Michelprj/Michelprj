@@ -1,6 +1,6 @@
 ## Olá, meu nome é Michel <img width='25' heigth='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />.
 
-Sou Desenvolvedor Front-End e estudante de desenvolvimento Web Full-Stack na [Trybe](https://www.betrybe.com/). Atualmente freelancer com foco em projetos Front-End e aprimorando minhas habilidades com novas tecnologias e frameworks. 
+Sou um Desenvolvedor Full-Stack apaixonado por criar experiências web incríveis. Atualmente, faço parte de uma equipe dinâmica, onde contribuo com meu conhecimento técnico e minha paixão por resolver problemas. Estudo na escola de programação Trybe, onde adquiri uma base sólida em desenvolvimento web e me aprofundei em tecnologias Front-End e Back-End. Desde então, tenho explorado diferentes projetos e desafios, expandindo minhas habilidades e conhecimentos. Além de minha experiência profissional, estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias e frameworks. Acredito na importância do aprendizado contínuo para me manter atualizado em um campo tão dinâmico como o desenvolvimento web.
 
 - 💻 Apaixonado em criar coisas.
 - 🎶 Produtor musical nas horas vagas.
@@ -14,6 +14,12 @@ Sou Desenvolvedor Front-End e estudante de desenvolvimento Web Full-Stack na [Tr
   <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
   <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  
+  <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
 </div>
 
 ### Você também me encontra em:
