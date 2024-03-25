@@ -18,7 +18,7 @@ Sou um Desenvolvedor Full-Stack apaixonado por criar experiências web incrívei
   <div>
     <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
     <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-    <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
     <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
     <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
