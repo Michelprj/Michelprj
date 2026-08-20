@@ -1,6 +1,6 @@
 ## Olá, meu nome é Michel <img width='25' heigth='25' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />.
 
-Sou um Desenvolvedor Full-Stack apaixonado por criar experiências web incríveis. Atualmente, faço parte de uma equipe dinâmica, onde contribuo com meu conhecimento técnico e minha paixão por resolver problemas. Estudo na escola de programação Trybe, onde adquiri uma base sólida em desenvolvimento web e me aprofundei em tecnologias Front-End e Back-End. Desde então, tenho explorado diferentes projetos e desafios, expandindo minhas habilidades e conhecimentos. Além de minha experiência profissional, estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias e frameworks. Acredito na importância do aprendizado contínuo para me manter atualizado em um campo tão dinâmico como o desenvolvimento web.
+Sou um Desenvolvedor Full-Stack. Atualmente, desenvolvedor e empresário na empresa Vylcor onde faço parte de uma equipe dinâmica, contribuindo com meu conhecimento técnico e minha paixão por resolver problemas. Além de minha experiência profissional, estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias e frameworks. Acredito na importância do aprendizado contínuo para me manter atualizado em um campo tão dinâmico como o desenvolvimento web.
 
 - 💻 Apaixonado em criar coisas.
 - 🎶 Produtor musical nas horas vagas.
