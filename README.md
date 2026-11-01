@@ -43,11 +43,9 @@ Fora do trabalho, produzo música.
 ### Atividade no GitHub
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Michelprj&theme=github_dark" width="100%" alt="Gráfico de contribuições no GitHub" />
-
-
-
+<img src="https://ssr-contributions-svg.vercel.app/_/Michelprj?chart=3dbar&format=svg&flatten=1&weeks=52&theme=red&dark=true" width="360" alt="Contribuições no último ano" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="numeros.svg" width="400" alt="Em números: 1.320 contribuições no último ano, 835 commits na Vylcor, 29 repositórios na Vylcor" />
 </div>
 
 ### Contato
